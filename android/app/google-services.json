@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33566431285",
+    "firebase_url": "https://bookings-f1ba2.firebaseio.com",
+    "project_id": "bookings-f1ba2",
+    "storage_bucket": "bookings-f1ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33566431285:android:a8ce170fc8652a5e49797c",
+        "android_client_info": {
+          "package_name": "com.begin.bookings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33566431285-sno0senn4p8larggniept8g7pcqbnkmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhW6u8rWGXO0z1t67I8NW1rE-suN-p4oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33566431285-sno0senn4p8larggniept8g7pcqbnkmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
